@@ -42,4 +42,4 @@ var Edad = prompt("Ingresa tu edad")
 var Nuevaedad = prompt("Cuántos años más quisieras tener")
 var Suma = Number(Edad) + Number(Nuevaedad)
 
-alert("Hola " + " " + Nombre + Apellido + "entonces te gustaría tener:" + Suma + ".”)
+alert("Hola " + Nombre + " " + Apellido + "entonces te gustaría tener:" + Suma + ".")
